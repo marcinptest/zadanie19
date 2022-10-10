@@ -1,0 +1,21 @@
+body {
+    background-color: #f5f5dd;
+}
+div {
+    margin-left: 40%;
+    width: 260px;
+    height: 260px;
+
+}
+.jeden {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.dwa {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.trzy {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.cztery {
+    background-color: rgba(0, 0, 0, 0.3);
+}
